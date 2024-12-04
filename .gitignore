@@ -2,5 +2,5 @@
 *
 
 # Allow only main.cpp files
-!*/  # Unignore directories so Git can traverse them
+!*/
 !main.cpp
