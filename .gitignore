@@ -1,29 +1,6 @@
-# Ignore build directories
-/cmake-build-debug/
+# Ignore everything by default
+*
 
-# Ignore CLion project settings
-/.idea/
-
-# Ignore CMake configuration files
-/CMakeLists.txt
-
-# Ignore compiled object files
-*.o
-*.obj
-
-# Ignore executables
-*.exe
-*.out
-*.app
-
-# Ignore dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Ignore system files
-.DS_Store
-Thumbs.db
-
-# Include only main.cpp
+# Allow only main.cpp files
+!*/  # Unignore directories so Git can traverse them
 !main.cpp
