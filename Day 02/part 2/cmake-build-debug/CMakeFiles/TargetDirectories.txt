@@ -1,3 +1,0 @@
-C:/Users/gkaww/Desktop/GitHub/AdventOfCode2024/Day 02/part 2/cmake-build-debug/CMakeFiles/part_2.dir
-C:/Users/gkaww/Desktop/GitHub/AdventOfCode2024/Day 02/part 2/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/gkaww/Desktop/GitHub/AdventOfCode2024/Day 02/part 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
