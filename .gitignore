@@ -1,0 +1,26 @@
+# Ignore build directories
+cmake-build-debug/
+
+# Ignore CMake configuration files
+CMakeLists.txt
+
+# Ignore user-specific CLion project settings
+.idea/
+
+# Ignore CLion generated files and folders
+*.iml
+*.iws
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled files
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+
+# Include only main.cpp
+!main.cpp
